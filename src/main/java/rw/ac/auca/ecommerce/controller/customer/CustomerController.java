@@ -21,7 +21,7 @@ import java.util.Objects;
  */
 @RequiredArgsConstructor
 @Controller
-@RequestMapping("/customer/")
+@RequestMapping({"/customer/","/"})
 public class CustomerController {
     private final ICustomerService customerService;
 
