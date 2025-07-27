@@ -17,8 +17,8 @@ It demonstrates core Spring Boot features such as RESTful APIs, MVC architecture
 - Java & Spring Boot
 - Hibernate & JPA
 - Maven
-- MySQL or PostgreSQL (your choice)
-- HTML/CSS (if front-end is included)
+- PostgreSQL
+- HTML/CSS in thymleaf
 
 ---
 
