@@ -31,4 +31,7 @@ public class Customer extends AbstractBaseEntity {
     @Column(name = "phone_number" , nullable = false , unique = true)
     private String phoneNumber;
 
+
+
+    private String role; // "ADMIN" or "USER"
 }
